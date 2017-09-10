@@ -1,0 +1,83 @@
+h1{
+color:RED;
+
+}
+
+h3{
+margin-left: 10%;
+}
+
+<del>{
+  colour: yellow
+}
+
+.super-main-title{
+color: red;
+display: block;
+margin: 0 auto;
+font-size: 40px;
+width: 50%;
+}
+
+
+.rg-body-colour{
+background-color: rgb(100, 200, 200);
+}
+
+body{
+  background-image: url("img/background.jpg")
+}
+
+
+
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+
+table#table1 {
+  width:80%;
+  margin-left:10%;
+  margin-right:10%;
+  margin-bottom: 2%;
+}
+table#table2 {
+  width:80%;
+  margin-left:10%;
+  margin-right:10%;
+  margin-bottom: 5%;
+  border: 2px;
+}
+table1, th, td {
+    border: 2px solid black;
+}
+
+table2,  th, td {
+        border: 2px solid black;
+}
+
+
+  }
+del { color:gray;
+     font-style: italic;
+
+}
+.div1 {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.div2 img {
+  max-width: 100%;
+  height: auto;
+}
+
+span.dropt {border-bottom: thin dotted; background: #ffeedd;}
+span.dropt:hover {text-decoration: none; background: #ffffff; z-index: 6; }
+span.dropt span {position: absolute; left: -9999px;
+  margin: 20px 0 0 0px; padding: 3px 3px 3px 3px;
+  border-style:solid; border-color:black; border-width:1px; z-index: 6;}
+span.dropt:hover span {left: 2%; background: #ffffff;}
+span.dropt span {position: absolute; left: -9999px;
+  margin: 4px 0 0 0px; padding: 3px 3px 3px 3px;
+  border-style:solid; border-color:black; border-width:1px;}
+span.dropt:hover span {margin: 20px 0 0 170px; background: #ffffff; z-index:6;}
