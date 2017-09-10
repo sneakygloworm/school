@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+    build:
+      commands:
+        - echo nothing to to do yet
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - styles.css
+    - img/*
+    - healthcheck.html
