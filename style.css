@@ -1,4 +1,4 @@
-h1{
+Ph1{
 color:RED;
 
 }
@@ -12,13 +12,21 @@ margin-left: 10%;
 }
 
 .super-main-title{
+text-align: center;
 color: red;
 display: block;
 margin: 0 auto;
 font-size: 40px;
 width: 50%;
 }
-
+.super2-main-title{
+text-align: center;
+color: red;
+display: block;
+margin: 0 auto;
+font-size: 20px;
+width: 50%;
+}
 
 .rg-body-colour{
 background-color: rgb(100, 200, 200);
