@@ -8,6 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - styles.css
+    - style.css
     - img/*
     - healthcheck.html
